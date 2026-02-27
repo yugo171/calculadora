@@ -1,17 +1,24 @@
-# 🧮 Calculadora Web
+# 🌐 Projeto DSM – Desenvolvimento Web
 
-Projeto desenvolvido para praticar conceitos fundamentais de **HTML, CSS e JavaScript**, com foco na construção de uma calculadora funcional no navegador.
+Aplicação web desenvolvida para praticar fundamentos de **HTML, CSS e JavaScript**, incluindo lógica de cálculo e consumo de API externa.
+
+O projeto simula um pequeno sistema com navegação entre páginas e funcionalidades distintas.
 
 ---
 
-## 🚀 Objetivo
+## 🚀 Funcionalidades
 
-Aplicar na prática:
+### 💰 Cálculo de Salário
+- Cálculo de salário líquido
+- Consideração de bônus e INSS
+- Validação básica de dados
+- Manipulação dinâmica do DOM
 
-- Estruturação de interface com HTML
-- Estilização com CSS
-- Manipulação de eventos com JavaScript
-- Lógica de operações matemáticas
+### 🐱 Consumo de API
+- Integração com API externa
+- Requisição HTTP via JavaScript
+- Exibição dinâmica de conteúdo
+- Tratamento básico de resposta
 
 ---
 
@@ -19,50 +26,53 @@ Aplicar na prática:
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (Vanilla JS)
+- Consumo de API REST
+
+---
+
+## 🧠 Conceitos Aplicados
+
+- Estruturação semântica de páginas
+- Organização em múltiplas rotas/páginas
+- Separação de responsabilidades (HTML / CSS / JS)
+- Manipulação de eventos
+- Lógica condicional
+- Integração com serviços externos
 
 ---
 
 ## 📂 Estrutura do Projeto
-
 calculadora
 ├── index.html
 ├── script/
-│ └── script.js
 └── style/
-└── style.css
-
-- `index.html` → Estrutura da aplicação  
-- `style/` → Estilização da interface  
-- `script/` → Lógica e funcionamento da calculadora  
 
 ---
 
-## 🧠 Funcionalidades
+## 🎯 Objetivo do Projeto
 
-- Operações básicas (+, -, ×, ÷)
-- Limpeza de tela
-- Atualização dinâmica do visor
-- Interação por clique nos botões
+Consolidar fundamentos de desenvolvimento web, aplicando:
 
----
-
-## 📚 Aprendizados
-
-- Organização de arquivos em projetos web
-- Separação entre estrutura, estilo e comportamento
-- Manipulação do DOM
-- Implementação de lógica matemática no front-end
+- Estrutura de layout
+- Regras de negócio no front-end
+- Consumo de APIs
+- Organização de projeto
 
 ---
 
-## 🎯 Próximos Passos (Evolução)
+## 📈 Evolução Técnica
 
-- Adicionar suporte a teclado
-- Melhorar responsividade
-- Implementar histórico de operações
-- Aplicar melhorias visuais
+Este projeto representa:
+
+- Primeira aplicação com múltiplas funcionalidades
+- Primeira integração com API externa
+- Aplicação prática de lógica de negócio
+- Base para evolução futura em front-end e automação
 
 ---
 
-> Projeto desenvolvido para consolidar fundamentos de desenvolvimento web.
+## 👨‍💻 Autor
+
+Lucas Yugo  
+Estudante de Tecnologia | FATEC-SP 
