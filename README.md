@@ -24,3 +24,45 @@ Aplicar na prática:
 ---
 
 ## 📂 Estrutura do Projeto
+
+calculadora
+├── index.html
+├── script/
+│ └── script.js
+└── style/
+└── style.css
+
+- `index.html` → Estrutura da aplicação  
+- `style/` → Estilização da interface  
+- `script/` → Lógica e funcionamento da calculadora  
+
+---
+
+## 🧠 Funcionalidades
+
+- Operações básicas (+, -, ×, ÷)
+- Limpeza de tela
+- Atualização dinâmica do visor
+- Interação por clique nos botões
+
+---
+
+## 📚 Aprendizados
+
+- Organização de arquivos em projetos web
+- Separação entre estrutura, estilo e comportamento
+- Manipulação do DOM
+- Implementação de lógica matemática no front-end
+
+---
+
+## 🎯 Próximos Passos (Evolução)
+
+- Adicionar suporte a teclado
+- Melhorar responsividade
+- Implementar histórico de operações
+- Aplicar melhorias visuais
+
+---
+
+> Projeto desenvolvido para consolidar fundamentos de desenvolvimento web.
